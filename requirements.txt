@@ -12,3 +12,4 @@ ddgs  # renamed from duckduckgo_search
 # Optional Helpers
 tqdm
 requests
+langchain-community
