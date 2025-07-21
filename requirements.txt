@@ -13,3 +13,4 @@ ddgs  # renamed from duckduckgo_search
 tqdm
 requests
 langchain-community
+duckduckgo-search
